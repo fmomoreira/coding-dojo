@@ -13,6 +13,6 @@ const novaPessoa = {
 };
 
 const verificarIgualdade = pessoa === novaPessoa;
-console.log(pessoa);
+
 console.log(novaPessoa);
 console.log(verificarIgualdade);
